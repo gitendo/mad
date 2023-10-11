@@ -1,3 +1,10 @@
+### Notice
+Starting October 12th, 2023 GitHub is enforcing mandatory [two-factor authentication](https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13/) on my account.  
+I'm not going to comply and move all my activity to GitLab instead.  
+Any future updates / releases will be available at: [https://gitlab.com/gitendo/mad](https://gitlab.com/gitendo/mad)  
+Thanks and see you there!
+___
+
 # Music Assembler song Dumper
 Back in the days, when I was happy C64 + 1541 II user, my mate borrowed me a floppy with original release of Voice Tracker 4. Unfortunately without C64 manual, SID technical information and basic knowledge of music tracking I could have only listened to a few amazing tunes... 
 
